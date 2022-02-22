@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.todoContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 17px;
+}
+
+.todoItem {
+  display: flex;
+  justify-content: center;
+  padding: 3px;
+}
+
+.todoItem label {
+  width: 150px;
+  text-align: left;
+}
